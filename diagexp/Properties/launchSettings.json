@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "diagexp": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\Users\\lowle\\Downloads\\archive\\MySqlHang.exe_210323_111947.dmp"
+    }
+  }
+}
